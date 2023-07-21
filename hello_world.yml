@@ -1,0 +1,8 @@
+---
+- name: Hello World!
+  hosts: all
+ 
+  tasks:
+ 
+  - name: Hello DOYOUNG World!
+    shell: echo "Hi DOYOUNG! Tower is working."
